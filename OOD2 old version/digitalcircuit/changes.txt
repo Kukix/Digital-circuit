@@ -1,0 +1,8 @@
+grid is always same so:
+empty constructor is enough .
+
+instead of using x,y we used points
+connection is between two gates (rather than saying between two points)
+construct connection with (gate1 and gate 2)
+paint function added for connection and gate
+

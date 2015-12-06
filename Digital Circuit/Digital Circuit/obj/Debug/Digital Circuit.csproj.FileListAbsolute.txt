@@ -1,0 +1,51 @@
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit\Digital Circuit\bin\Debug\Digital Circuit.exe.config
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit\Digital Circuit\bin\Debug\Digital Circuit.exe
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit\Digital Circuit\bin\Debug\Digital Circuit.pdb
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit\Digital Circuit\obj\Debug\Digital Circuit.csprojResolveAssemblyReference.cache
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit\Digital Circuit\obj\Debug\Digital_Circuit.Form1.resources
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit\Digital Circuit\obj\Debug\Digital_Circuit.Properties.Resources.resources
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit\Digital Circuit\obj\Debug\Digital Circuit.csproj.GenerateResource.Cache
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit\Digital Circuit\obj\Debug\Digital Circuit.exe
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit\Digital Circuit\obj\Debug\Digital Circuit.pdb
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit\Digital Circuit\obj\Debug\Digital_Circuit.ConnectionEditer.resources
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit\Digital Circuit\obj\Debug\Digital_Circuit.Manual.resources
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit Backup Files\Digital Circuit - Backup 15-12-2014 -A clean version\Digital Circuit\bin\Debug\Digital Circuit.exe.config
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit Backup Files\Digital Circuit - Backup 15-12-2014 -A clean version\Digital Circuit\obj\Debug\Digital Circuit.exe
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit Backup Files\Digital Circuit - Backup 15-12-2014 -A clean version\Digital Circuit\obj\Debug\Digital Circuit.pdb
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit Backup Files\Digital Circuit - Backup 15-12-2014 -A clean version\Digital Circuit\bin\Debug\Digital Circuit.exe
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit Backup Files\Digital Circuit - Backup 15-12-2014 -A clean version\Digital Circuit\bin\Debug\Digital Circuit.pdb
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit Backup Files\Digital Circuit - Backup 15-12-2014 -A clean version\Digital Circuit\obj\Debug\Digital Circuit.csprojResolveAssemblyReference.cache
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit Backup Files\Digital Circuit - Backup 15-12-2014 -A clean version\Digital Circuit\obj\Debug\Digital_Circuit.ConnectionEditer.resources
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit Backup Files\Digital Circuit - Backup 15-12-2014 -A clean version\Digital Circuit\obj\Debug\Digital_Circuit.Form1.resources
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit Backup Files\Digital Circuit - Backup 15-12-2014 -A clean version\Digital Circuit\obj\Debug\Digital_Circuit.Manual.resources
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit Backup Files\Digital Circuit - Backup 15-12-2014 -A clean version\Digital Circuit\obj\Debug\Digital_Circuit.Properties.Resources.resources
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit Backup Files\Digital Circuit - Backup 15-12-2014 -A clean version\Digital Circuit\obj\Debug\Digital Circuit.csproj.GenerateResource.Cache
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit Backup Files\Digital Circuit - Beta version (without redundant code)\Digital Circuit\bin\Debug\Digital Circuit.exe.config
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit Backup Files\Digital Circuit - Beta version (without redundant code)\Digital Circuit\obj\Debug\Digital Circuit.exe
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit Backup Files\Digital Circuit - Beta version (without redundant code)\Digital Circuit\obj\Debug\Digital Circuit.pdb
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit Backup Files\Digital Circuit - Beta A-clean version (without redundant code)\Digital Circuit\bin\Debug\Digital Circuit.exe.config
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit Backup Files\Digital Circuit - Beta A-clean version (without redundant code)\Digital Circuit\obj\Debug\Digital Circuit.exe
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit Backup Files\Digital Circuit - Beta A-clean version (without redundant code)\Digital Circuit\obj\Debug\Digital Circuit.pdb
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit Backup Files\Digital Circuit - Beta A-clean version (without redundant code)\Digital Circuit\bin\Debug\Digital Circuit.exe
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit Backup Files\Digital Circuit - Beta A-clean version (without redundant code)\Digital Circuit\bin\Debug\Digital Circuit.pdb
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit Backup Files\Digital Circuit - Beta A-clean version (without redundant code)\Digital Circuit\obj\Debug\Digital Circuit.csprojResolveAssemblyReference.cache
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit Backup Files\Digital Circuit - Beta A-clean version (without redundant code)\Digital Circuit\obj\Debug\Digital_Circuit.ConnectionEditer.resources
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit Backup Files\Digital Circuit - Beta A-clean version (without redundant code)\Digital Circuit\obj\Debug\Digital_Circuit.Form1.resources
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit Backup Files\Digital Circuit - Beta A-clean version (without redundant code)\Digital Circuit\obj\Debug\Digital_Circuit.Manual.resources
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit Backup Files\Digital Circuit - Beta A-clean version (without redundant code)\Digital Circuit\obj\Debug\Digital_Circuit.Properties.Resources.resources
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit Backup Files\Digital Circuit - Beta A-clean version (without redundant code)\Digital Circuit\obj\Debug\Digital Circuit.csproj.GenerateResource.Cache
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit Backup Files\Digital Circuit - Backup 15-12-2014 -Beta -A clean version\Digital Circuit\bin\Debug\Digital Circuit.exe.config
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit Backup Files\Digital Circuit - Backup 15-12-2014 -Beta -A clean version\Digital Circuit\obj\Debug\Digital Circuit.exe
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit Backup Files\Digital Circuit - Backup 15-12-2014 -Beta -A clean version\Digital Circuit\obj\Debug\Digital Circuit.pdb
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit Backup Files\Digital Circuit - Backup 15-12-2014 -Beta -A clean version\Digital Circuit\bin\Debug\Digital Circuit.exe
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit Backup Files\Digital Circuit - Backup 15-12-2014 -Beta -A clean version\Digital Circuit\bin\Debug\Digital Circuit.pdb
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit Backup Files\Digital Circuit - Backup 15-12-2014 -Beta -A clean version\Digital Circuit\obj\Debug\Digital Circuit.csprojResolveAssemblyReference.cache
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit Backup Files\Digital Circuit - Backup 15-12-2014 -Beta -A clean version\Digital Circuit\obj\Debug\Digital_Circuit.ConnectionEditer.resources
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit Backup Files\Digital Circuit - Backup 15-12-2014 -Beta -A clean version\Digital Circuit\obj\Debug\Digital_Circuit.Form1.resources
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit Backup Files\Digital Circuit - Backup 15-12-2014 -Beta -A clean version\Digital Circuit\obj\Debug\Digital_Circuit.Manual.resources
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit Backup Files\Digital Circuit - Backup 15-12-2014 -Beta -A clean version\Digital Circuit\obj\Debug\Digital_Circuit.Properties.Resources.resources
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit Backup Files\Digital Circuit - Backup 15-12-2014 -Beta -A clean version\Digital Circuit\obj\Debug\Digital Circuit.csproj.GenerateResource.Cache
+E:\Fontys sharepoints and assignments\Year 2\OOD2\Digital Circuit\Digital Circuit\obj\Debug\Digital_Circuit.Setting.resources
+D:\School\OOD\OOD2\Digital Circuit\Digital Circuit\bin\Debug\Digital Circuit.exe.config
+D:\School\OOD\OOD2\Digital Circuit\Digital Circuit\obj\Debug\Digital Circuit.exe
+D:\School\OOD\OOD2\Digital Circuit\Digital Circuit\obj\Debug\Digital Circuit.pdb

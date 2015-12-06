@@ -1,0 +1,6 @@
+grid is always same so:
+empty constructor is enough .
+
+instead of using x,y we used points
+
+

@@ -1,0 +1,41 @@
+
+
+
+********************************************************************************************************************
+                                                                                                                 
+                                                                                                                 
+                **************************  DIGITAL CIRCUIT MANUAL  **************************                   
+                                                                                                                 
+                                                                                                                 
+********************************************************************************************************************
+
+
+********  Before operating this product, please read the enclosed Operating Instructions completely.          
+   
+********  In order that you can use this product more safely and get full play to its functions and features  
+
+********  please read the operating instructions carefully before using this unit and keep it properly.       
+
+********  This Product is provided by GROUP 7  All Rights Reserved.   
+
+********  1. Fully installed this application.    
+
+********  2. Only windows platform availiable.    
+
+********  3. Lines means connections, from one gate to another (only from left side from right side).    
+
+********  4. Before make a new gate, choose the gate type at the left side first.    
+
+********  5. Every source can be used for many times but every sink can only has one value.    
+
+********  6. Gate "AND" and "OR" have 2 in values and Many out values, while "OR" have 1 in value and Many out value.
+
+********  7. "Source" only have out values and "SINK" only have in values.   
+
+********   For more questions, please contact us by sending email to : jacky-ni@outlook.com   
+
+********   Wish you all good luck  :)  ********   ********    12. 2014    ******** 
+
+
+
+
